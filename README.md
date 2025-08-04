@@ -5,7 +5,7 @@ It supports both **Normally Pixelated (NP-PIM)** and **Complex Pixelated (CP-PIM
 ## 📥 Dataset Access
 
 The **T-PIM Dataset** is available here:  
-🔗 **[Google Drive T-PIM – T-PIM Dataset](https://drive.google.com/drive/folders/14NpCbfqlzJvdVdeMERzPV9GO3-yTIyiO?usp=sharing)**  
+🔗 **[T-PIM Dataset](https://drive.google.com/drive/folders/14NpCbfqlzJvdVdeMERzPV9GO3-yTIyiO?usp=sharing)**  
 
 The folder contains:
 - **NP-PIM** datasets (15 GHz, 28 GHz, 79 GHz)
