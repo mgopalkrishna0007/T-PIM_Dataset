@@ -2,6 +2,9 @@
 
 This repository contains the **Transmissive Polarization-Insensitive Metasurface (T-PIM)** datasets and implementation of the **PIM-CNN** deep learning model for inverse metasurface filter design.  
 It supports both **Normally Pixelated (NP-PIM)** and **Complex Pixelated (CP-PIM)** configurations across **15 GHz**, **28 GHz**, and **79 GHz** center frequencies.
+![final-flow](https://github.com/user-attachments/assets/2b998fcb-2a75-4f0b-9993-15349364ae8d)
+
+
 ## 📥 Dataset Access
 
 The **T-PIM Dataset** is available here:  
@@ -55,7 +58,8 @@ The datasets span:
 - [28 GHz Dataset](#)  
 - [79 GHz Dataset](#)  
 
----
+![finaldesign](https://github.com/user-attachments/assets/65053421-4dcb-4547-a359-6936a33787e4)
+
 
 ## 📊 Dataset Format
 
@@ -71,3 +75,6 @@ Each dataset entry contains:
 
 - **Frequency response**: 501 frequency points per simulation
 - **Stored format**: `.pkl`
+
+
+![RESULTS2 (1)](https://github.com/user-attachments/assets/378c5d79-2e1e-406b-8fae-e06069f06ca6)
